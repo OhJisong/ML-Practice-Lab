@@ -17,18 +17,20 @@
 ---
 
 ## 레포지토리 구조 (실습 순서)
+```text
 ML-Practice-Lab/
-├── 01_LinearRegression/ # 선형 회귀 (Linear Regression)
-├── 02_LogisticRegression/ # 로지스틱 회귀 (Logistic Regression)
-├── 03_KNN/ # K-최근접 이웃 (K-Nearest Neighbors)
-├── 04_NaiveBayes/ # 나이브 베이즈 (Naive Bayes)
-├── 05_DecisionTree/ # 결정 트리 (Decision Tree)
-├── 06_RandomForest/ # 랜덤 포레스트 (Random Forest)
-├── 07_XGBoost/ # XGBoost
-├── 08_LightGBM/ # LightGBM
-├── 09_KMeans/ # K-평균 군집화 (K-Means Clustering)
-├── 10_PCA/ # 주성분 분석 (Principal Component Analysis)
+├── 01_LinearRegression/       # 선형 회귀 (Linear Regression)
+├── 02_LogisticRegression/     # 로지스틱 회귀 (Logistic Regression)
+├── 03_KNN/                    # K-최근접 이웃 (K-Nearest Neighbors)
+├── 04_NaiveBayes/             # 나이브 베이즈 (Naive Bayes)
+├── 05_DecisionTree/           # 결정 트리 (Decision Tree)
+├── 06_RandomForest/           # 랜덤 포레스트 (Random Forest)
+├── 07_XGBoost/                # XGBoost
+├── 08_LightGBM/               # LightGBM
+├── 09_KMeans/                 # K-평균 군집화 (K-Means Clustering)
+├── 10_PCA/                    # 주성분 분석 (Principal Component Analysis)
 └── README.md
+```
 
 ---
 
